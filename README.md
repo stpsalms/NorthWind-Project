@@ -56,5 +56,5 @@ Part Three
 12.	Create a stored procedure named GetHighValueCustomers that returns a list of customers who have made purchases above a specified total purchase amount.
 13.	Create a stored procedure named GetCategoryRevenue that takes a CategoryID as input and returns the total revenue for all products in that category.
 14.	Create a stored procedure named GetProductSales that takes a ProductID as input and returns the total sales (revenue) for that product.
-15.	
+	
 
