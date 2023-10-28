@@ -1,5 +1,6 @@
 Use NORTHWND
 
+--testing Github changes
 INSERT INTO shippers(ShipperID,CompanyName,Phone)
 VALUES
 	(1, 'Speedy Express', '(503) 555-9831'),
